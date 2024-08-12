@@ -30,7 +30,7 @@ Collected from discussions with several people on the topics of:
 
 - [Brain Gym](https://www.leneurogroupe.org/brain-gym?lang=en#:~:text=The%20Brain%20Gym%20program%20consists,%2C%20centering%2C%20comprehension%20and%20concentration) is a method using movement and artistic activities to improve learning abilities.
 - To sing from memory, you need to actively "put the paper down" early in rehearsals (not "at the end")
-- [Audtiation](https://kb.gcsu.edu/cgi/viewcontent.cgi?article=1136&context=grposters#:~:text=Audiation%20is%20the%20cognitive%20ability,is%20a%20manifestation%20of%20audiation) is the cognitive ability to internally hear and understand music.
+- [Audiation](https://kb.gcsu.edu/cgi/viewcontent.cgi?article=1136&context=grposters#:~:text=Audiation%20is%20the%20cognitive%20ability,is%20a%20manifestation%20of%20audiation) is the cognitive ability to internally hear and understand music.
 
 ## Software Notes
 
@@ -38,3 +38,13 @@ Collected from discussions with several people on the topics of:
   - typing in by hand instead
 - Mix different part tracks by hand (changing volume, export, multiple times)
 - What is possible? How to start? Introduction/Workshop?
+- AI Voice Programs
+  - [Vocaloid](https://www.vocaloid.com/en/vocaloid6/)
+    - Trial version 31 days
+    - $225, includes 14 voices
+  - [Synthesizer V Studio](https://dreamtonics.com/synthesizerv/)
+    - Basic (free, no advanced features)
+    - Pro (paid) $89 without voices, voice packs typically $90
+  - [Ace Studio](https://www.acestudio.ai)
+    - 14 day trial
+    - Subscription monthly($22/m)/yearly($13/m), includes voices
