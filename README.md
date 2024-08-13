@@ -18,12 +18,27 @@ Collected from discussions with several people on the topics of:
 - not everyone can sing and record the soprano/bass parts
 - also very useful for new singers in the choir
 - breathing sounds are also very important!
+- different mixes
+  - part only (with/without others softly)
+  - stereo mix (part on left, rest on the right)
+  - click track\
+  - no part (everything except a specific part)
+- Can also use a loopstation to record rehearsal tracks
+- Choir members could also use MuseScore and "choose their own mix" (but this requires sharing the score file)
+
 
 ## Rehearsing Notes
 
 - rehearse behind piano (and play notes of sections repeatedly)
 - writing down lyrics by hand (to better remember)
 - Using choregraphy with the song (to better remember)
+- Rehearse with metronome on 2 and 4 to get timing better
+- [Count Singing](https://acda-publications.s3.us-east-2.amazonaws.com/ChorTeach_vol.3_Wine,T.pdf) is the practice of rehearsing a choral work on counts rather than singing the text.
+- Use [Basic Steps (VoPa, Intelligent Choir)](https://youtu.be/f1Wy0FFQlYA?si=gGDjbGtt76gVl5p3&t=992) for choir to learn internalize groove/timing.
+- analyze score before rehearsing
+  - find out which interval you are singing within the chord (1-3-5-7-9, etc) to understand your sound within the whole
+  - figure out structure of the song (from AABA form and lyrics perspective),
+    ![Example analysis](images/example-analysis.jpeg)
 
 
 ## Brain Notes
@@ -36,6 +51,7 @@ Collected from discussions with several people on the topics of:
 
 - Musescore scanning sheet music does not give satisfying results at the moment
   - typing in by hand instead
+  - or correcting scanned parts
 - Mix different part tracks by hand (changing volume, export, multiple times)
 - What is possible? How to start? Introduction/Workshop?
 - AI Voice Programs
@@ -48,3 +64,11 @@ Collected from discussions with several people on the topics of:
   - [Ace Studio](https://www.acestudio.ai)
     - 14 day trial
     - Subscription monthly($22/m)/yearly($13/m), includes voices
+- Choir Rehearse App
+  - [Rehearse App](http://www.rehearse.nl/welcome-to-the-rehearse-app/) for anyone who wants to practice anywhere alone, to be well prepared to rehearse or perform together later on. Rehearse was first designed to be used in the Netherlands, but also supports other languages.
+- correcting a scan
+  - listen to a part while looking at the sheetmusic and check for incorrect things
+  - or use entering lyrics as a way to check if all the rhythm of the notes are correct (if not then the syllables will not match up) 
+- PlayScore2 scanning sheetmusic
+- capella-scan
+- converted midi files (from scanning) sometimes have issues with time signature changes
