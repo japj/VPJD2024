@@ -1,9 +1,18 @@
 # VPJD2024
-Notes from Vocal Pop &amp; Jazz Days 2024
+
+Feel free to contact me at jeroen.janssen@gmail.com if you have any questions or additions.
+
+These are my notes from the Vocal Pop &amp; Jazz Days 2024.
 Collected from discussions with several people on the topics of:
 
 - (AI) Rehearsal Tracks
 - The practice of learning new songs (and how to help the brain)
+
+My intention for this is it be a shared resource for everyone that is interested in these topics. There are a lot different approaches to things.
+
+Be open to the the knowledge and experience from others and use whatever fits your needs or situation the best. 
+
+There is no one way.
 
 ## Rehearsal Track Notes
 
@@ -72,3 +81,11 @@ Collected from discussions with several people on the topics of:
 - PlayScore2 scanning sheetmusic
 - capella-scan
 - converted midi files (from scanning) sometimes have issues with time signature changes
+
+## TODO
+
+- process my latest notes
+- add links to example ai choir videos (vocaloid, ace studio, synthesizer v)
+- add links to existing choir instruction/demo videos of applications
+  - including vocoflex
+- make overview picture of different ways to approach creating rehearsal tracks
