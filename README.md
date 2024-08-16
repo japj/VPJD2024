@@ -82,6 +82,10 @@ There is no one way.
 - capella-scan
 - converted midi files (from scanning) sometimes have issues with time signature changes
 
+## Thanks
+
+Thank you to all the participants at the Vocal Pop & Jazz Days that I got to talk about these topics during our week. I was not expecting such positive feedback and different perspectives on this. We have a great singing communitity and it is amazing to learn from others and also be able to share my experiences and knowledge to people.
+
 ## TODO
 
 - process my latest notes
