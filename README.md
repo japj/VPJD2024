@@ -150,8 +150,7 @@ Thank you to all the participants at the Vocal Pop & Jazz Days that I got to tal
 
 ## TODO
 
-- process my latest notes
-- add links to example ai choir videos (vocaloid, ace studio, synthesizer v)
+- check notes for missing content
 - add links to existing choir instruction/demo videos of applications
   - including vocoflex
 - make overview picture of different ways to approach creating rehearsal tracks
