@@ -1,6 +1,6 @@
 # VPJD2024
 
-Feel free to contact me at jeroen.janssen@gmail.com if you have any questions or additions.
+Feel free to contact me at jeroen.janssen@gmail.com if you have any questions or additions. You can also [follow my youtube channel](https://www.youtube.com/@japjnl) where I will start posting tutorials on related topics.
 
 These are my notes from the Vocal Pop &amp; Jazz Days 2024.
 Collected from discussions with several people on the topics of:
