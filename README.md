@@ -43,13 +43,32 @@ Here are some existing examples of an AI choir singing pop/jazz arrangements (fo
 - breathing sounds are also very important!
 - different mixes
   - part only (with/without others softly)
-  - stereo mix (part on left, rest on the right)
-  - click track\
+  - stereo mix (part on left, rest on the right - softer)
+    - part on the left: so you can hear your own part while driving (sorry UK drivers)
+  - click track (untuned)
   - no part (everything except a specific part)
+  - exporting mixes one by one (e.g. rebalance parts before each export), manually
+    - option to make/have a template with mixbus prepared for exporting rehearsal tracks in one go 
 - Can also use a loopstation to record rehearsal tracks
 - Choir members could also use MuseScore and "choose their own mix" (but this requires sharing the score file)
+- how to get from paper to rehearsal track (when buying an arrangement without tracks)
+  - (old, please don't do this) type in all the notes
+  - use music scanning software and correct where needed
+    - Dorico has some amazing editing/correction capabilities with e.g. inserting/deleting notes in between and automatically adjusting whatever comes afterwards
+- look for the best tracks (voices) to prepare to get common sound (song scouts)
+  - record selected choir voices (with coaching) for choir rehearsal track
+  - different song scout per type of song, the song should be telling us how to sing
+- starting note before
+- count in
+- dynamics (of parts) need to fit in the mix for the specific rehearsal track
+- some prefer midi for exact looping on bar level (audio looping is not precise enough)
+- bad rehearsal file can prevent you from practicing
+- you can combine different things (it is no OR choice, it can be a little bit of all):
+  - AI bass voice
+  - self recorded voice parts
+  - piano parts
 
-
+ 
 ## Rehearsing Notes
 
 - rehearse behind piano (and play notes of sections repeatedly)
@@ -62,6 +81,32 @@ Here are some existing examples of an AI choir singing pop/jazz arrangements (fo
   - find out which interval you are singing within the chord (1-3-5-7-9, etc) to understand your sound within the whole
   - figure out structure of the song (from AABA form and lyrics perspective),
     ![Example analysis](images/example-analysis.jpeg)
+- rehearse "backwards", starting at the end and connect transitions to eachother
+- don't overload the brain, stop singing pitch and focus on rhythm, afterwards add pitch again
+- neural pathway forging (reinforce what is correct)
+- don't pound in notes in rehearsal, know before (individual vs ensemble work)
+- tradition (in rehearsing) is difficult to change
+- tracks can make people lazy
+  - correcting things can be hard (e.g. missing dynamics)
+  - imitating (sounding like the track)
+- not all songs should have rehearsal tracks
+- record the rehearsal to record progress
+- not everyone is technology advanced the same way (e.g. using Bandlab to sing with other voices)
+- don't give something to listen to that does not sound great
+- don't play piano register in singing voice (but octave higher)
+  - or only bass (root), fifth
+- [Noa Kageyama](https://bulletproofmusician.com/about/): Myth of Mastery
+  - You will know tomorrow if you have it mastered
+  - random practice vs focused practive
+  - frame of concentration
+- Dr. Molly Gebrian: [Learn Faster, Perform Better: A Musician’s Guide to the Neuroscience of Practicing](https://www.mollygebrian.com/music-and-the-brain)
+- location of rehearsing at home
+  - car typically only has audio, no sheetmusic. connecting visual/audio impossible in car
+- listen to your part, sing against the rest
+- making cheat sheets (small by hand)
+- want to hear chords of the song to get a picture
+  - and then find out what note to sing
+- "memorize on the toilet"
 
 
 ## Brain Notes
@@ -84,6 +129,7 @@ Here are some existing examples of an AI choir singing pop/jazz arrangements (fo
   - [Synthesizer V Studio](https://dreamtonics.com/synthesizerv/)
     - Basic (free, no advanced features)
     - Pro (paid) $89 without voices, voice packs typically $90
+    - [How to Purchase, Download, and Install Synthesizer V Studio and Voice Databases](https://synthv.info/guide-install)
   - [Ace Studio](https://www.acestudio.ai)
     - 14 day trial
     - Subscription monthly($22/m)/yearly($13/m), includes voices
@@ -95,6 +141,8 @@ Here are some existing examples of an AI choir singing pop/jazz arrangements (fo
 - PlayScore2 scanning sheetmusic
 - capella-scan
 - converted midi files (from scanning) sometimes have issues with time signature changes
+- don't worry about what the "best" (notation) program is, just get familiar with one and make the best use of it
+  - the more you use it, the faster you get
 
 ## Thanks
 
