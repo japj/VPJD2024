@@ -14,6 +14,20 @@ Be open to the the knowledge and experience from others and use whatever fits yo
 
 There is no one way.
 
+## Example AI Voice Choir Covers/Rehearsal Tracks
+
+Here are some existing examples of an AI choir singing pop/jazz arrangements (for rehearsal purposes).
+
+- Synthesizer V
+  - [Shower The People](https://www.youtube.com/watch?v=7WN3as9pKnQ)
+  - [Brothers In Arms](https://www.youtube.com/watch?v=tk_hOnMwIII)
+- Ace Studio
+  - [Straighten Up And Fly Right](https://www.youtube.com/watch?v=p016PUgodMM)
+  - [Winter](https://www.youtube.com/watch?v=vBXxXG_ZApc)
+- Vocaloid
+  - [Sway](https://www.youtube.com/watch?v=mQu7MWmombI)
+  - [All The Things She Said](https://www.youtube.com/watch?v=tBffGOLR734)
+
 ## Rehearsal Track Notes
 
 - Piano sounds are typically to short (e.g. when playing long notes)
