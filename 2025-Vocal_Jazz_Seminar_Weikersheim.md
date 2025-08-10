@@ -1,6 +1,6 @@
 # Vocal Jazz Seminar (Weikersheim) 2025
 
-These are my notes from the Vocal Pop &amp; Jazz Days 2024.
+These are my notes from the Vocal Jazz Seminar 2025 at Weikersheim.
 Collected from discussions with several people on the topics of:
 
 - (AI) Rehearsal Tracks
