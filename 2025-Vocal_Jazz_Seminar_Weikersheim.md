@@ -25,11 +25,16 @@ There is no one way.
   - Enter notes and lyrics. Each note corresponds with each syllable of text. Your melodies are sent to the cloud, and Emvoice One's virtual singers are ready to perform instantly.
   - One voice monthly, $7.99/month
   - All voices monthly, $11.99/month
+  - requires to "record the midi" on the vst plugin track to transfer the notes, afterwards text can be entered
 - [Cantai](https://cantai.app): Opera/Choir singing synth
   - currently in development
   - will be integrated in MuseScore (requires separate subscription for cantai)
   - working on vst integrations for Sibelius and Dorico
   - [Indiegogo campaign until September 2nd 2025](https://www.indiegogo.com/projects/cantai-musescore-studio-integration-vsts-engine#/)
+- [SmartScore](https://www.musitek.com/smartscore-pro.html): sheet music recognition
+  - special pricing for Finale users, education
+  - SmartScore Pro 64 NE: $399
+
 
 ### Choir management
 - [ChoirGenius](https://www.choirgenius.com): Software to manage your choir
@@ -38,6 +43,15 @@ There is no one way.
 
 ### Learning Track Playback
 - [Music Speed Changer](https://musicspeedchanger.com): Change the Speed and Pitch of Your Music, Independently
+
+## Rehearsal track notes
+
+- AI voices for BarberShop seems more problematic. Existing AI voices are more pop/jazz/operatic in nature
+- When having 2-part/3-part split, the singers can have different origins, e.g. S2 and A1 sing the middle part. This means a 4 learning tracks are needed for 3 part harmony:
+  - S1
+  - S2/Middle
+  - A1/Middle
+  - A2 
 
 ## Thanks
 
